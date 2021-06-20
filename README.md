@@ -1,6 +1,4 @@
-# Good_Practice_In_Web_Dev
-
-// structure of the blog
+# Good practices in web-dev
 
 1. what are the good practices?
 2. what will it change?
@@ -8,10 +6,10 @@
 
 ## What is good practice?
 
-To make sure quality user experience, it is necessary that your website displayed correctly across all the device. In order to achive this, we need to write code which is scalable and gives the same output for all the devices.
+To make sure quality user experience, it is necessary that your website displayed correctly across all the device. In order to achieve this, we need to write code which is scalable and gives the same output for all the devices.
 
 ## what will it change?
-
+Following this will ofCourse enhance the user experience once they visit your web platform. It will improve readablity of your code with the help of clear indentations, and depending upon the performance it will also enhance the SEO rankings which will push your platform to the top at search engines. It'll boost up the accesibility on the screen reader and other identical technologies. 
 <!-- more -->
 
 ## Tell me Some examples
@@ -245,6 +243,9 @@ Here is a example of good code with comments,
 ```
 
 ---
+
+## Last but not the least
+Following these web-dev practices will help you increase your client-base and improve the inline presence on web. Make sure you stick to these standards for all of your projects. What really matters is how you develop it which will help you achieve and serve your goals.
 
 ## References
 
